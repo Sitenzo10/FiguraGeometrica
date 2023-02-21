@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7566f5f4-9848-4d76-9a7e-39c440ac9269" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/geometria.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CirculoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/geometria.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FiguraGeometrica_APG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FiguraGeometrica_APG.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/andre/Desktop/Andres/DAW 22-23/ENTORNOS/junit-4.13.2.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Circulo_APG,testArea and 2 more">
+    <configuration name="FiguraGeometrica_APG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FiguraGeometrica_APG" />
+      <module name="geometria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CirculoTest.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CirculoTest" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circulo_APG,testArea and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FiguraGeometrica_APG" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="Circulo_APG,testArea" />
+        <pattern testClass="Rectangulo_APG,testArea" />
+        <pattern testClass="Triangulo_APG,testArea" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circulo_APG.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Circulo_APG" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangulo_APG.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Rectangulo_APG" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Circulo_APG,testArea and 2 more" />
+        <item itemvalue="JUnit.Rectangulo_APG.testArea" />
+        <item itemvalue="JUnit.Circulo_APG.testArea" />
+        <item itemvalue="JUnit.CirculoTest.testArea" />
+        <item itemvalue="Application.FiguraGeometrica_APG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

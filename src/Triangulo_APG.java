@@ -1,8 +1,14 @@
 
 public class Triangulo_APG extends FiguraGeometrica_APG {
+<<<<<<< HEAD
 	private double lado1;
 	private double lado2;
 	private double lado3;
+=======
+	private double a;
+	private double b;
+	private double c;
+>>>>>>> perimetral
 	
 	public Triangulo_APG(String tipoFigura, double lado1, double lado2, double lado3) {
 		super(tipoFigura);
@@ -19,8 +25,15 @@ public class Triangulo_APG extends FiguraGeometrica_APG {
 	@Override
 	public double area() { //Utiliza la formula de Her—n
 		double sp;
+<<<<<<< HEAD
 		sp = this.perimetro() / 2;
 		return Math.sqrt(sp * (sp-lado1) * (sp-lado2) * (sp-lado3));
 	}
+=======
+		sp = this.semiPerimetro();
+		return Math.sqrt(sp * (sp-a) * (sp-b) * (sp-c));
+	}
+	
+>>>>>>> perimetral
 
 }
