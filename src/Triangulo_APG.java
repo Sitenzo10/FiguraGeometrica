@@ -1,10 +1,10 @@
 
-public class Triangulo extends FiguraGeometrica {
+public class Triangulo_APG extends FiguraGeometrica_APG {
 	private double a;
 	private double b;
 	private double c;
 	
-	public Triangulo(String tipoFigura, double lado1, double lado2, double lado3) {
+	public Triangulo_APG(String tipoFigura, double lado1, double lado2, double lado3) {
 		super(tipoFigura);
 		a = lado1;
 		b = lado2;
@@ -23,7 +23,5 @@ public class Triangulo extends FiguraGeometrica {
 		return Math.sqrt(sp * (sp-a) * (sp-b) * (sp-c));
 	}
 	
-	public double semiPerimetro() {
-		return this.perimetro() / 2;
-	}
+
 }
