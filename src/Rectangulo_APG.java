@@ -1,5 +1,5 @@
 
-public class Rectangulo_APG extends FiguraGeometrica {
+public class Rectangulo_APG extends FiguraGeometrica_APG {
 	private double l1;
 	private double l2;
 	

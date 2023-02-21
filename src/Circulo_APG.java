@@ -1,5 +1,5 @@
 
-public class Circulo_APG extends FiguraGeometrica {
+public class Circulo_APG extends FiguraGeometrica_APG {
 	private double radio;
 	//Constante pi
 	static final double PI = 3.1416;
